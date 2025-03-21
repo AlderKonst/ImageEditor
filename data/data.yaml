@@ -1,0 +1,4 @@
+train: ../dataset/images/train/ 
+
+nc: 1 # количество классов
+names: ['obj'] # имена классов
